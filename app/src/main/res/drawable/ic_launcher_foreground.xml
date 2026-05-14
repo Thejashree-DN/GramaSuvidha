@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Hut/House -->
+    <path
+        android:fillColor="#eae3c9"
+        android:pathData="M32,58L45,45L58,58V72H32V58Z" />
+    <path
+        android:fillColor="#eae3c9"
+        android:pathData="M30,58L45,40L60,58L57,60L45,47L33,60L30,58Z" />
+
+    <!-- Path/Bridge -->
+    <path
+        android:fillColor="#eae3c9"
+        android:pathData="M58,72C65,72 70,68 75,62L80,58"
+        android:strokeWidth="1.5"
+        android:strokeColor="#eae3c9"/>
+
+    <!-- Location Pin -->
+    <path
+        android:fillColor="#eae3c9"
+        android:pathData="M78,40C74,40 71,43 71,47C71,52 78,60 78,60C78,60 85,52 85,47C85,43 82,40 78,40Z" />
+
+    <!-- Checkmark inside Pin -->
+    <path
+        android:fillColor="#226b6e"
+        android:pathData="M75,47L77,49L81,45"
+        android:strokeWidth="1"
+        android:strokeColor="#226b6e"/>
+
+    <!-- Bridge Rails approximation -->
+    <path
+        android:strokeColor="#eae3c9"
+        android:strokeWidth="0.5"
+        android:pathData="M65,72V68M68,71V66M71,70V64" />
+
+</vector>

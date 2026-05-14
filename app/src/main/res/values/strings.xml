@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Grama-Suvidha Portal</string>
+    <string name="app_display_name">Grama-Suvidha</string>
+    <string name="app_tagline">Digital Progress for Every Village</string>
+    <string name="title_projects">Projects</string>
+    <string name="title_project_details">Project Details</string>
+    <string name="title_report_issue">Report an Issue</string>
+    <string name="lang_en">EN</string>
+    <string name="lang_kn">ಕನ್ನಡ</string>
+    <string name="status_ongoing">Ongoing</string>
+    <string name="status_completed">Completed</string>
+    <string name="label_progress">Progress: %1$d%%</string>
+    <string name="label_budget">Budget: ₹%1$s</string>
+    <string name="label_start_date">Start Date: %1$s</string>
+    <string name="label_end_date">End Date: %1$s</string>
+    <string name="label_timeline">Status Updates</string>
+    <string name="label_images">Project Photos</string>
+    <string name="label_before">Before</string>
+    <string name="label_after">After</string>
+    <string name="btn_rate">Rate Project</string>
+    <string name="btn_report">Report Issue</string>
+    <string name="btn_submit">Submit</string>
+
+    <!-- Authentication Strings -->
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_name">Full Name</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="msg_no_account">Don\'t have an account? Register</string>
+    <string name="msg_have_account">Already have an account? Login</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="msg_login_success">Login Successful!</string>
+    <string name="msg_register_success">Registration Successful!</string>
+
+    <!-- Report Issue Strings -->
+    <string name="hint_issue_description">Describe the issue in detail…</string>
+    <string name="label_attach_photo">Attach a Photo (Optional)</string>
+    <string name="msg_report_submitted">Thank you! Your report has been submitted to the Gram Panchayat.</string>
+    <string name="label_issue_type">Issue Type</string>
+    <string name="issue_type_infrastructure">Infrastructure Damage</string>
+    <string name="issue_type_quality">Poor Work Quality</string>
+    <string name="issue_type_delay">Project Delay</string>
+    <string name="issue_type_mismanagement">Mismanagement of Funds</string>
+    <string name="issue_type_other">Other</string>
+
+    <!-- Rating Strings -->
+    <string name="title_rate_project">Rate this Project</string>
+    <string name="msg_rate_project">How would you rate the quality of this work?</string>
+
+    <!-- Sample Data (updated for 2024) -->
+    <string name="project_1_name">Road Repair - Main Street</string>
+    <string name="project_1_desc">Renovation and tarring of the primary village connecting road.</string>
+    <string name="project_1_budget">5,00,000</string>
+    <string name="project_1_start">15 Jan 2024</string>
+    <string name="project_1_end">31 Mar 2024</string>
+
+    <string name="project_2_name">Solar Street Lights</string>
+    <string name="project_2_desc">Installation of 50 solar-powered street lights across the village.</string>
+    <string name="project_2_budget">2,50,000</string>
+    <string name="project_2_start">01 Feb 2024</string>
+    <string name="project_2_end">15 Feb 2024</string>
+
+    <string name="project_3_name">Primary School Renovation</string>
+    <string name="project_3_desc">Painting and structural repairs for the government school.</string>
+    <string name="project_3_budget">1,20,000</string>
+    <string name="project_3_start">20 Mar 2024</string>
+    <string name="project_3_end">10 Apr 2024</string>
+
+    <string name="timeline_1">Initial survey completed.</string>
+    <string name="timeline_2">Materials delivered to site.</string>
+    <string name="timeline_3">Work in progress: Excavation done.</string>
+</resources>

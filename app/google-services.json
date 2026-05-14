@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147375177957",
+    "project_id": "grama-suvidha-85a5f",
+    "storage_bucket": "grama-suvidha-85a5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147375177957:android:f60c48c56ea1f2c163140c",
+        "android_client_info": {
+          "package_name": "com.example.grama_suvidhaportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPi6YlRlo-pHwJYlTC9gFvx1fAKhcyKBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147375177957:android:23edb10ea0d9570963140c",
+        "android_client_info": {
+          "package_name": "com.mindmatrix.gramasuvidha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPi6YlRlo-pHwJYlTC9gFvx1fAKhcyKBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
